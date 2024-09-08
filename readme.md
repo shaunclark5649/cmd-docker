@@ -24,6 +24,7 @@ This repository provides instructions for setting up the Contractor Management S
    Clone the frontend and backend repositories into their respective folders inside the contractor_managment folder:
 
 ```bash
+   cd contractor_managment
    git clone git@github.com:shaunclark5649/cms-fe.git frontend
    git clone git@github.com:shaunclark5649/cms-be.git backend
 ```
