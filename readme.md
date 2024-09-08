@@ -13,19 +13,19 @@ This repository provides instructions for setting up the Contractor Management S
 
 ### Setup Instructions
 
-1. **Clone Repositories**
+1. **Clone the Docker Compose configuration repository:**
 
-   Clone the frontend and backend repositories into their respective folders:
+```bash
+   git clone git@github.com:shaunclark5649/cms-docker.git contractor_managment
+```
+
+2. **Clone Repositories**
+
+   Clone the frontend and backend repositories into their respective folders inside the contractor_managment folder:
 
 ```bash
    git clone git@github.com:shaunclark5649/cms-fe.git frontend
    git clone git@github.com:shaunclark5649/cms-be.git backend
-```
-
-2. **Clone the Docker Compose configuration repository:**
-
-```bash
-   git clone git@github.com:shaunclark5649/cms-docker.git
 ```
 
 3.  **Clone the Docker Compose configuration repository:**
