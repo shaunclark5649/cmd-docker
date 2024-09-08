@@ -29,7 +29,17 @@ This repository provides instructions for setting up the Contractor Management S
    git clone git@github.com:shaunclark5649/cms-be.git backend
 ```
 
-3.  **Clone the Docker Compose configuration repository:**
+3. **Add .env file to backend folder**
+
+   Create a .env file from the tempalte in the backend
+
+```bash
+   cd contractor_managment
+   git clone git@github.com:shaunclark5649/cms-fe.git frontend
+   git clone git@github.com:shaunclark5649/cms-be.git backend
+```
+
+4.  **Clone the Docker Compose configuration repository:**
 
 ```bash
   docker-compose up --build
