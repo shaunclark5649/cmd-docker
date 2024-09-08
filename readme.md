@@ -32,7 +32,7 @@ This repository provides instructions for setting up the Contractor Management S
 3.  **Clone the Docker Compose configuration repository:**
 
 ```bash
-  docker-compose --build
+  docker-compose up --build
 ```
 
 ## Project Structure
